@@ -1,2 +1,1 @@
-My first readme
-# alx-zero_day
+My first up to date git project
